@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6797278-b5c1-4a6a-ae75-9e7a34f8cf0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@scp079db.c2wpl7k3v66y.ap-northeast-2.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@scp079db.c2wpl7k3v66y.ap-northeast-2.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@scp079db.c2wpl7k3v66y.ap-northeast-2.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sharkyDB: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ruby0\Documents\GitHub\SCP-Ban\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VP95PxwEATG36O1bItJVCvPF9x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BOT.Object" />
+      <recent name="BOT.Command" />
+      <recent name="BOT.Listener" />
+      <recent name="Object" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruby0\Documents\GitHub\SCP-ServerBan\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.sharky-server-1.0-SNAPSHOT.jar">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOT.App" />
+      <module name="sharky-server.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SCP-ServerBan [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SCP-ServerBan [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SCP-ServerBan-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/SCP-ServerBan-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sharky-server-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/sharky-server-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.sharky-server-1.0-SNAPSHOT.jar" />
+        <item itemvalue="Gradle.SCP-ServerBan [shadowJar]" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.SCP-ServerBan [dependencies]" />
+        <item itemvalue="JAR Application.SCP-ServerBan-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6797278-b5c1-4a6a-ae75-9e7a34f8cf0b" name="Default Changelist" comment="" />
+      <created>1577143679017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577143679017</updated>
+      <workItem from="1577143682414" duration="25403000" />
+      <workItem from="1577212685429" duration="682000" />
+      <workItem from="1577214692058" duration="1623000" />
+      <workItem from="1577319654804" duration="657000" />
+      <workItem from="1577357234021" duration="848000" />
+      <workItem from="1577607936048" duration="2747000" />
+      <workItem from="1578503700370" duration="599000" />
+      <workItem from="1579013908332" duration="8008000" />
+      <workItem from="1579027102839" duration="3935000" />
+      <workItem from="1579035408605" duration="42000" />
+      <workItem from="1579037987239" duration="579000" />
+      <workItem from="1579038885161" duration="204000" />
+      <workItem from="1579484630486" duration="1278000" />
+      <workItem from="1579820730886" duration="384000" />
+      <workItem from="1579919601363" duration="355000" />
+      <workItem from="1583654004357" duration="1979000" />
+      <workItem from="1583749767340" duration="5814000" />
+      <workItem from="1584105469310" duration="686000" />
+      <workItem from="1584248351893" duration="14390000" />
+      <workItem from="1584532860018" duration="1000" />
+      <workItem from="1584532910816" duration="608000" />
+      <workItem from="1584703952267" duration="561000" />
+      <workItem from="1584871717166" duration="2210000" />
+      <workItem from="1584890633322" duration="820000" />
+      <workItem from="1585140399951" duration="8346000" />
+      <workItem from="1585471100057" duration="604000" />
+      <workItem from="1585875059672" duration="4552000" />
+      <workItem from="1585905077161" duration="7325000" />
+      <workItem from="1585927016366" duration="1484000" />
+      <workItem from="1585935923605" duration="599000" />
+      <workItem from="1586085900080" duration="5510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="176" key="#App" timestamp="1586087480207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="176" key="#App/0.0.1920.1040@0.0.1920.1040" timestamp="1586087480207" />
+    <state x="552" y="191" key="#Project_Structure" timestamp="1585143152028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="191" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585143152028" />
+    <state x="552" y="178" key="#SQL_Dialects" timestamp="1583676526527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1583676526527" />
+    <state x="552" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585141503875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585141503875" />
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579013945971" />
+    <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1583758354779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583758354779" />
+    <state x="640" y="264" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579820871909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="264" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579820871909" />
+    <state x="751" y="404" width="417" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583750753101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="404" width="417" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1583750753101" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583750763955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583750763955" />
+    <state x="993" y="439" key="FileChooserDialogImpl" timestamp="1585877163537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="993" y="439" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585877163537" />
+    <state x="993" y="456" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1579821051118" />
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1586091493207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586091493207" />
+    <state width="1873" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.-1080.1920.1080@0.0.1920.1080" timestamp="1577663759192" />
+    <state width="1873" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579032958478" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1586091493206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586091493206" />
+    <state width="1873" height="285" key="GridCell.Tab.0.center/0.0.1920.1080/0.-1080.1920.1080@0.0.1920.1080" timestamp="1577663759191" />
+    <state width="1873" height="285" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579032958477" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1586091493206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586091493206" />
+    <state width="1873" height="285" key="GridCell.Tab.0.left/0.0.1920.1080/0.-1080.1920.1080@0.0.1920.1080" timestamp="1577663759191" />
+    <state width="1873" height="285" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579032958477" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1586091493206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586091493206" />
+    <state width="1873" height="285" key="GridCell.Tab.0.right/0.0.1920.1080/0.-1080.1920.1080@0.0.1920.1080" timestamp="1577663759192" />
+    <state width="1873" height="285" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579032958477" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1585926772897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585926772897" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1585926772897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585926772897" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1585926772897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585926772897" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1585926772897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585926772897" />
+    <state width="214" height="500" key="HiddenNamespacesPopup" timestamp="1579014063026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="214" height="500" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1579014063026" />
+    <state x="440" y="110" key="SettingsEditor" timestamp="1586091275627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="110" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586091275627" />
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579014053677" />
+    <state x="715" y="363" key="cloudConfig.PluginsDialog" timestamp="1585875103437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="363" key="cloudConfig.PluginsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585875103437" />
+    <state x="837" y="401" width="331" height="240" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1584257243360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="401" width="331" height="240" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1584257243360" />
+    <state x="751" y="338" width="417" height="360" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1584248547451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="338" width="417" height="360" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584248547451" />
+    <state x="1526" y="387" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1583676268863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1526" y="387" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583676268863" />
+    <state x="635" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1579820731074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="635" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579820731074" />
+    <state x="358" y="116" key="new project wizard" timestamp="1579821111890">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="358" y="116" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1579821111890" />
+    <state x="489" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1585926250670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585926250670" />
+    <state x="489" y="245" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1577608734218" />
+  </component>
+</project>

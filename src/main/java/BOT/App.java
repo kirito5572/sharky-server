@@ -25,6 +25,8 @@ import java.awt.*;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 import java.util.*;
 import java.util.List;
 
@@ -129,11 +131,19 @@ public class App {
 
     public static ServerInfo serverInfo(String ip, String port) {
         ServerInfo serverInfo = new ServerInfo();
-        serverInfo.ip = ip;
+        String address;
+        try {
+            InetAddress Address = InetAddress.getByName(ip);
+            address = Address.getHostAddress();
+        } catch (UnknownHostException e) {
+            e.printStackTrace();
+            address = "error";
+        }
+        serverInfo.ip = address;
         serverInfo.port = port;
         boolean serverEnable = false;
         for(JsonObject jsonObject : jsonObjectList) {
-            if(jsonObject.get("ip").getAsString().equals(ip)) {
+            if(jsonObject.get("ip").getAsString().equals(address)) {
                 if(jsonObject.get("port").getAsString().equals(port)) {
                     serverEnable = true;
                     serverInfo.player = jsonObject.get("players").getAsString();
@@ -142,6 +152,9 @@ public class App {
         }
         if(!serverEnable) {
             serverInfo.player = "not open";
+        }
+        if(serverInfo.player.startsWith("0/")) {
+            serverInfo.player = "just open";
         }
         return serverInfo;
     }

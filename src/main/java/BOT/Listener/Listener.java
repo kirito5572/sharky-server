@@ -2,6 +2,7 @@ package BOT.Listener;
 
 import BOT.App;
 import com.google.gson.JsonObject;
+import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.events.ReadyEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
@@ -25,10 +26,21 @@ public class Listener extends ListenerAdapter {
             public void run() {
                 App.ServerInfo serverInfo = App.serverInfo(ip, port);
                 String activityString;
-                if(serverInfo.player.equals("not open")) {
-                    activityString = "서버 준비중";
-                } else {
+                if(serverInfo.ip.equals("error")) {
+                    System.exit(-1);
+                    return;
+                }
+                else if(serverInfo.player.equals("not open")) {
+                    activityString = "서버 준비";
+                    event.getJDA().getPresence().setStatus(OnlineStatus.DO_NOT_DISTURB);
+                }
+                else if(serverInfo.player.equals("just open")) {
+                    activityString = "유저 대기";
+                    event.getJDA().getPresence().setStatus(OnlineStatus.IDLE);
+                }
+                else {
                     activityString = serverInfo.player;
+                    event.getJDA().getPresence().setStatus(OnlineStatus.ONLINE);
                 }
                 event.getJDA().getPresence().setActivity(Activity.playing(activityString));
             }
